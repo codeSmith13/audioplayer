@@ -2,7 +2,7 @@
 //MP3 Player Script
 
 //Owner Branding Label
-$('#owner').text('LaToya Andrews');
+$('#owner').text('Your Name here');
 
 $(document).ready(function(){
 
